@@ -1,2 +1,6 @@
 # CARL
-CARL: An automatic running detection algorithm for free-living accelerometer data
+CARL: Title of the paper
+
+## Pre-Alpha Version  
+
+Need folders on data, etc. Combine functions. 
