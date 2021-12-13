@@ -1,4 +1,4 @@
-# CARL: a running recognition algorithm for free-living accelerometer data
+## CARL: a running recognition algorithm for free-living accelerometer data
 
 The CARL classifier is an algorithm built to identify and extract bouts of running from raw, free-living accelerometer data. It can be used for acceleration data collected at the wrist or anywhere on the torso.
 
