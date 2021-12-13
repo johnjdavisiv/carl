@@ -2,7 +2,7 @@
 
 The CARL classifier is an algorithm built to identify and extract bouts of running from raw, free-living accelerometer data. It can be used for acceleration data collected at the wrist or anywhere on the torso.
 
-The CARL classifier is currently implemented in MATLAB. You will need the signal processing and wavelet toolboxes. Python and R implementations are coming "soon:tm:."
+The CARL classifier is currently implemented in MATLAB. You will need the signal processing and wavelet toolboxes. Python and R implementations are coming "soon<sup>:tm:</sup>."
 
 You can find the data accompanying our paper here: **FIGSHARE_DOI**
 
