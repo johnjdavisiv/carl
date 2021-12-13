@@ -1,0 +1,11 @@
+# Filetypes to ignore #
+#######################
+*.log
+*.jpg
+*.jpeg
+*.png
+*.webm
+*.gif
+*.RHistory
+Raw*data/*
+Algorithm*development/*
