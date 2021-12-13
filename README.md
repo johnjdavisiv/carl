@@ -55,7 +55,8 @@ Please cite our work if you use the CARL classifier or its supporting data in yo
 
 ## Basic usage
 
-`vm_logical_final = CARLclassify(vm, 'torso', 5, 100);`
+`vm_logical_final = CARLclassify(vm, 'torso', 5, 100);`  
+
 The above line runs the CARL classifier, indicating our accelerometer was on on the torso
 
 
