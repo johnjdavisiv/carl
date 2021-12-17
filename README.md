@@ -1,10 +1,14 @@
-## CARL: a running recognition algorithm for free-living accelerometer data
+## CARL: A running recognition algorithm for free-living accelerometer data
+
+
+![CARL classifier on free-living wrist data](header_image.png)
 
 The CARL classifier is an algorithm built to identify and extract bouts of running from raw, free-living accelerometer data. It can be used for acceleration data collected at the wrist or anywhere on the torso.
 
 The CARL classifier is currently implemented in MATLAB. You will need the signal processing and wavelet toolboxes. Python and R implementations are coming "soon<sup>:tm:</sup>."
 
-You can find the data accompanying our paper here: **FIGSHARE_DOI**
+You can find the data accompanying our paper here: [https://figshare.com/articles/dataset/CARL_classifier_activity_recognition_data/17198275](https://figshare.com/articles/dataset/CARL_classifier_activity_recognition_data/17198275)  
+**Figshare data DOI:** 10.6084/m9.figshare.17198275
 
 If you use our data, or the CARL classifier itself, please [cite our manuscript](https://iopscience.iop.org/article/10.1088/1361-6579/ac41b8):  
 * Davis, Straczkiewicz, Harezlak, and Gruber. CARL: A running recognition algorithm for free-living accelerometer data. *Physiological Measurement*.	**doi:** 10.1088/1361-6579/ac41b8
@@ -77,7 +81,8 @@ Virtually all wearable accelerometers are DC-response accelerometers, which work
 
 ## Other included functions
 
-List
-* of all the functions
+TODO:
+* Make a list
+* of all the other useful functions
 * Included in the folder
 * and how you might use them

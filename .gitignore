@@ -3,9 +3,11 @@
 *.log
 *.jpg
 *.jpeg
-*.png
+*.psd
 *.webm
 *.gif
 *.RHistory
+*.asv
+make_github_demo_figure.m
 Raw*data/*
 Algorithm*development/*
