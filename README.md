@@ -1,7 +1,7 @@
 ## CARL: A running recognition algorithm for free-living accelerometer data
 
 
-![CARL classifier on free-living wrist data](header_image.png)
+![CARL classifier on free-living wrist data](header_image_resize.png)
 
 The CARL classifier is an algorithm built to identify and extract bouts of running from raw, free-living accelerometer data. It can be used for acceleration data collected at the wrist or anywhere on the torso.
 
@@ -78,11 +78,3 @@ You will need the files in the `/CARLclassify function/` directory on your worki
 CARL will NOT work out of the box with AC-response accelerometers, of the type sometimes used to measure impact shock in running injury research. These sensors cannot detect very low frequency accelerations; the reaction force from the ground (at +1 g) is one such "low frequency acceleration." In fact, its frequency is zero Hz!  
 
 Virtually all wearable accelerometers are DC-response accelerometers, which work just fine with CARL. As a hack fix, if you have AC-response data and you know which way the device was oriented (and you know it stayed mostly oriented the same direction), just add +1 g to the positive vertical axis of the accelerometer to "fake" the presence of gravity. Then just use the logical vector to index into the original data.
-
-## Other included functions
-
-TODO:
-* Make a list
-* of all the other useful functions
-* Included in the folder
-* and how you might use them
